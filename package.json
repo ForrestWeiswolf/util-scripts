@@ -1,0 +1,10 @@
+{
+  "name": "util-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ForrestWeiswolf/util-scripts",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
