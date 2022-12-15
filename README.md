@@ -1,0 +1,1 @@
+Various small scripts that didn't need their own repo. Don't expect them to be flexible or resilient - most of these were originally written for a one-off task and represent at *most* a few minutes work.
